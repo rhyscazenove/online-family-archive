@@ -4,10 +4,21 @@ title: Angharad's videos
 permalink: /a/
 ---
 
+*Please Note:* Some of these videos are not suitable for young people, as they may contain, gore, violence, nudity or other serious adult themes.  There are also some great things that are perfect for kids to watch and enjoy.  I will try to highlight the most/least appropriate, as needed.
 
+### Highlights
 
-### Note 
-Some of these videos are not suitable for young people, as they may contain, gore, violence, nudity or other serious adult themes.  There are also some great things that are perfect for kids to watch and enjoy.  I will try to highlight the most/least appropriate, as needed.
+There's quite a lot here, and so I have done what I can to help you navigate through it.  
+
+*Something quick?, try these: *  Coming soon!
+
+*Something funny?*  Angharad did quite a bit of light comedy in the early 70s.  Some of the humour has aged better than others, but it is all fascinating! Cacth Me A Spy (1971), Doctors in Charge (1972)
+
+*Something more serious?* Lots of great ones to choose from... Joe's Ark (1974) should probably be top of your list.
+
+*Something for the kids?:* British Fold Tales (1980) is great, and the two Call My Bluff Shows (1980 and 1996) are entertaining.
+
+*Want to see Angharad through the years?:*  
 
 # Chronology of work
 
@@ -57,6 +68,8 @@ https://en.wikipedia.org/wiki/ITV_Schools
 
 *1981:* stars in **Dear Brutus** alongside family friend, Joanna David ([wikipedia](https://en.wikipedia.org/wiki/Dear_Brutus){:target="_blank"}).  
 [Watch British Folk Tales (20min)](https://vimeo.com/416934829){:target="_blank"}
+
+
 
 
 [Watch (min)](https://vimeo.com/){:target="_blank"}
