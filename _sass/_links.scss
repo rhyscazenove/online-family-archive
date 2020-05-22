@@ -1,5 +1,30 @@
+h1,h2,h3,h4,h5,h6 {
+    font-weight: 300;
+}
+
+p {
+    font-weight: 300;
+}
+
+strong, b {
+    font-weight: 500;
+}
 
 a.watch-link {
+    border: 1px solid $gray;
+    background-color: $lightGray;
+    padding: 6px;
+    margin-top: 10px;
+    display: inline-block;
+    border-radius: 4px;
+  }
+  a.watch-link:hover { 
+    border: 1px solid $blue;
+    background-color: $blue;
+    color: white;
+}
+
+  a.wiki-link {
     border: 1px solid $gray;
     background-color: $lightGray;
     padding: 6px;
@@ -13,8 +38,6 @@ a.watch-link {
      font-family: "Font Awesome 5 Free";
      display: inline-block;
      padding-right: 6px;
-     
-     
   }
   
   a.watch-link:before {
