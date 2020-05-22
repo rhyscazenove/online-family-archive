@@ -17,6 +17,7 @@ a.watch-link {
     display: inline-block;
     border-radius: 4px;
   }
+  
   a.watch-link:hover { 
     background-color: $blue;
     color: white;
@@ -25,7 +26,6 @@ a.watch-link {
   a.wiki-link {
     background-color: #eee;
     padding: 0px 20px;
-    margin-top: 10px;
     display: inline-block;
     border-radius: 4px;
   }
