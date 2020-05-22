@@ -24,28 +24,43 @@ a.watch-link {
     border-radius: 1em;
     border: none;
     border-bottom: 3px solid $white;
-
-  }
-
-  a.watch-link:hover { 
     
-    border-color: $blue;
-    border-bottom: 3px solid $blue;
-    border-radius: 3px;
+    &:hover { 
+        background-color: $lightBlue;
+        border-color: $blue;
+        border-bottom: 3px solid $blue;
+        border-radius: 3px;
+    
+        .cliplength {
+        }
+    }
 
-    .cliplength {
-
-
+    &:before {
+        content: "\f530";
+        padding-right: 10px;
     }
 }
 
-  a.wiki-link {
+ 
+
+a.wiki-link {
     padding: 0px 10px;
     display: inline-block;
     border-radius: 1em;
     border-right: 1px solid $blue;
     border-left: 1px solid $blue;
-  }
+
+    &:hover {
+        background-color: $lightBlue;
+    }
+
+    &:before {
+        content: "\f35d";
+        font-size: 0.7em;
+        font-weight: 300;
+        padding-right: 6px;
+    }
+}
   
   a.watch-link:before,
   a.wiki-link:before,
@@ -55,19 +70,6 @@ a.watch-link {
      padding-right: 6px;
   }
   
-  a.watch-link:before {
-    content: "\f530";
-    padding-right: 10px;
-  }
-  
-  a.wiki-link:before {
-    content: "\f35d";
-    font-size: 0.7em;
-    font-weight: 300;
-    padding-right: 6px;
-  }
-
-
   .cliplength {
     color: $blue;
     display: inline-block;
@@ -77,10 +79,11 @@ a.watch-link {
     vertical-align: middle;
     font-style: normal;
     margin-left: 4px;
-    
-  }
 
-  .cliplength:before {  
-    content: "\f017";
-    padding-right: 4px;
-  }
+    &:before {  
+        content: "\f017";
+        padding-right: 4px;
+    }
+    
+}
+
