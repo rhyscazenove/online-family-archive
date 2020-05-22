@@ -16,18 +16,20 @@ a.watch-link {
     margin-top: 10px;
     display: inline-block;
     border-radius: 1em;
-    border: 2px solid #ddd;
+    border: none;
 
   }
 
   a.watch-link:hover { 
-    background-color: $blue;
+    
     border-color: $blue;
     color: white;
+    border-bottom: 3px solid $blue;
+    border-radius: 3px;
 
     .cliplength {
-        color: white;
-        border-color: $blue;
+
+
     }
 }
 
@@ -60,7 +62,6 @@ a.watch-link {
 
 
   .cliplength {
-  
     color: $blue;
     display: inline-block;
     border-radius: 1em;
@@ -69,7 +70,7 @@ a.watch-link {
     vertical-align: middle;
     font-style: normal;
     margin-left: 4px;
-    border: 2px solid #eee;
+    
   }
 
   .cliplength:before {  
