@@ -31,10 +31,10 @@ There's quite a lot here, and so I have done what I can to help you navigate thr
 *1971:* **Catch Me A Spy** - a spy comedy starring Kirk Douglas and directed by Dick Clement. [wikipedia](https://en.wikipedia.org/wiki/To_Catch_a_Spy){:target="_blank"}{:.wiki-link}.  Mum appears throughout the movie, first at 5min and later at 26min.  
 [Watch Catch Me A Spy *1hr 38min*{:.cliplength}](https://vimeo.com/){:target="_blank"}{:.watch-link}
 
-*1971:* TV play **Office Party**, as part of Armchair Theatre, which broadcast plays on ITV in UK from 1956 until 1974 ([read more on wikipedia](https://en.wikipedia.org/wiki/Armchair_Theatre){:target="_blank"}{:.wiki-link}.    
+*1971:* TV play **Office Party**, as part of Armchair Theatre, which broadcast plays on ITV in UK from 1956 until 1974 [wikipedia](https://en.wikipedia.org/wiki/Armchair_Theatre){:target="_blank"}{:.wiki-link}.    
 [Watch Office Party *50 min*{:.cliplength}](https://vimeo.com/418522199){:target="_blank"}{:.watch-link}
 
-*1971:* **Hands of the Ripper**, with Eric Porter [wikipedia](https://en.wikipedia.org/wiki/Hands_of_the_Ripper{:target="_blank"}{:.wiki-link}).  As I grew up mum was quite ashamed / embarraseed that she was in a gruesome horror movie.  She banned me and Linford from seeing it.  As I write this, I still haven't seen it!  But I plan to - it now enjoys a successful cult following within the horror community.  They recently remastered it and released it blueray with an audio interview with mum... I must check it out....  
+*1971:* **Hands of the Ripper**, with Eric Porter [wikipedia](https://en.wikipedia.org/wiki/Hands_of_the_Ripper){:target="_blank"}{:.wiki-link}.  As I grew up mum was quite ashamed / embarraseed that she was in a gruesome horror movie.  She banned me and Linford from seeing it.  As I write this, I still haven't seen it!  But I plan to - it now enjoys a successful cult following within the horror community.  They recently remastered it and released it blueray with an audio interview with mum... I must check it out....  
 [Watch trailer for Hand of the Ripper *2min*{:.cliplength}](https://www.youtube.com/watch?v=duaH3nPO98s){:target="_blank"}{:.watch-link}
 
 *1972:* She has a brief appearance in **Baffled!** starring Leonard Nimoy and Susan Hampshire.[wikipedia](https://en.wikipedia.org/wiki/Baffled!){:target="_blank"}{:.wiki-link}.  Dinner scene at 28 min mark.   
