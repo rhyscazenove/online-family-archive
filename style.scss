@@ -285,6 +285,14 @@ footer {
 
 
 
+a:watch-link {
+  border: 1px solid $gray;
+  background-color: $lightGray;
+  padding: 6px;
+  margin-top: 10px;
+  display: inline-block;
+  border-radius: 4px;
+}
 a.watch-link:before,
 a.wiki-link:before {
    font-family: "Font Awesome 5 Free";
