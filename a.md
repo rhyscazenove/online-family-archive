@@ -25,7 +25,7 @@ There's quite a lot here, and so I have done what I can to help you navigate thr
 *1969:* The earliest recording I could find is from 1969, a tv comedy show called **Doctor in the House** ([wikipedia page](https://en.wikipedia.org/wiki/Doctor_in_the_House_(TV_series)){:target="_blank"}{:.wiki-link}).  Silly fun swinging sixties kind of stuff.  And lovely surprise - my uncle Mike Grady is in it too!.  
 [Watch Doctor in the House (25 min)](https://vimeo.com/418522494){:target="_blank"}{:.watch-link}
 
-*1970:* She appears briefly in the movie **Jane Ayre** starring Suzanna York and George Scott ([wikipedia](https://en.wikipedia.org/wiki/Jane_Eyre_(1970_film)){:target="_blank"}{:.wiki-link}).  At around 42 minute mark there is a dance, and mum is the one in the yellow dress with white trim. 
+*1970:* She appears briefly in the movie **Jane Ayre** starring Suzanna York and George Scott ([wikipedia](https://en.wikipedia.org/wiki/Jane_Eyre_(1970_film)){:target="_blank"}{:.wiki-link}).  At around 42 minute mark there is a dance, and mum is the one in the yellow dress with white trim.   
 [Watch Jane Ayre (1hr 38min)](https://vimeo.com/421465651/){:target="_blank"}{:.watch-link}
 
 *1971:* **Catch Me A Spy** - a spy comedy starring Kirk Douglas and directed by Dick Clement. ([wikipedia](https://en.wikipedia.org/wiki/To_Catch_a_Spy){:target="_blank"}{:.wiki-link}).  Mum appears throughout the movie, first at 5min and later at 26min.  
@@ -67,19 +67,19 @@ There's quite a lot here, and so I have done what I can to help you navigate thr
 *1980:* stars in **Middle English**([wikipedia](https://en.wikipedia.org/wiki/ITV_Schools){:target="_blank"}{:.wiki-link}), and talks about books and folk tales. Made by Independent Television for Schools and Colleges, it was part of the educational service. She has a beautiful royal accent in this - very posh and proper!  Sweet though, and child friendly.  
 [Watch British Folk Tales (0min)](https://vimeo.com/416934829){:target="_blank"}{:.watch-link}
 
-*1980:* appears in the charming british TV quiz show **Call My Bluff**([wikipedia](https://en.wikipedia.org/wiki/Call_My_Bluff){:target="_blank"}{:.wiki-link}).  See was actually in this several times, but I only have this episode, plus another epsiode from 1996 (see below).
+*1980:* appears in the charming british TV quiz show **Call My Bluff**([wikipedia](https://en.wikipedia.org/wiki/Call_My_Bluff){:target="_blank"}{:.wiki-link}).  See was actually in this several times, but I only have this episode, plus another epsiode from 1996 (see below).  
 [Watch Call My Bluff (30min)](https://vimeo.com/418538029){:target="_blank"}{:.watch-link}
 
 *1981:* stars in **Dear Brutus** alongside family friend, Joanna David ([wikipedia](https://en.wikipedia.org/wiki/Dear_Brutus){:target="_blank"}{:.wiki-link}).  
 [Watch British Folk Tales (20min)](https://vimeo.com/416934829){:target="_blank"}{:.watch-link}
 
-*1984"* co-stars in TV minisearies **Master of the Game**([wikipedia](https://en.wikipedia.org/wiki/Master_of_the_Game_(novel)){:target="_blank"}{:.wiki-link}).  There's a shorter highlight video if you just want to get a taste for it.
+*1984"* co-stars in TV minisearies **Master of the Game**([wikipedia](https://en.wikipedia.org/wiki/Master_of_the_Game_(novel)){:target="_blank"}{:.wiki-link}).  There's a shorter highlight video if you just want to get a taste for it.  
 [Master of the Game Highlights (23min)](https://vimeo.com/420452141){:target="_blank"}{:.watch-link}  
 [Master of the Game Part 1 (2hr 15min)](https://vimeo.com/420452443){:target="_blank"}{:.watch-link}  
 [Master of the Game Part 2 (2hr 11min)](https://vimeo.com/420458159){:target="_blank"}{:.watch-link}  
 [Master of the Game Part 3 (52min)](https://vimeo.com/420459495){:target="_blank"}{:.watch-link}  
 
-*1985:* co-starred in **The Forgotten Story**([wikipedia](https://en.wikipedia.org/wiki/The_Forgotten_Story){:target="_blank"}{:.wiki-link}).  Written by the same person who wrote Poldark (Winston Graham) and featuring many of the same cast!
+*1985:* co-starred in **The Forgotten Story**([wikipedia](https://en.wikipedia.org/wiki/The_Forgotten_Story){:target="_blank"}{:.wiki-link}).  Written by the same person who wrote Poldark (Winston Graham) and featuring many of the same cast!  
 [The Forgotten Story Ep 1 (28min)](https://vimeo.com/420462151){:target="_blank"}{:.watch-link}  
 [The Forgotten Story Ep 2 (24min)](https://vimeo.com/420462464){:target="_blank"}{:.watch-link}  
 [The Forgotten Story Ep 3 (24min)](https://vimeo.com/420462719){:target="_blank"}{:.watch-link}  
