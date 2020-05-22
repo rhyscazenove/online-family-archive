@@ -11,16 +11,24 @@ strong, b {
 }
 
 a.watch-link {
-    background-color: $lightGray;
-    padding: 6px;
+    background-color: $white;
+    padding: 5px 5px 5px 15px;
     margin-top: 10px;
     display: inline-block;
     border-radius: 4px;
+    border: 2px solid #ddd;
+
   }
 
   a.watch-link:hover { 
     background-color: $blue;
+    border-color: $blue;
     color: white;
+
+    .cliplength {
+        color: white;
+        border-color: $blue;
+    }
 }
 
   a.wiki-link {
@@ -40,12 +48,14 @@ a.watch-link {
   
   a.watch-link:before {
     content: "\f530";
+    padding-right: 10px;
   }
   
   a.wiki-link:before {
     content: "\f35d";
     font-size: 0.7em;
     font-weight: 300;
+    padding-right: 6px;
   }
 
 
@@ -58,8 +68,10 @@ a.watch-link {
     padding: 3px 10px;
     vertical-align: middle;
     font-style: normal;
+    margin-left: 4px;
   }
 
   .cliplength:before {  
     content: "\f017";
+    padding-right: 4px;
   }
