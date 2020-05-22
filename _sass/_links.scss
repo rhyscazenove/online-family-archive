@@ -47,3 +47,11 @@ a.watch-link {
   a.wiki-link:before {
     content: "\f059";
   }
+
+
+  .cliplength {
+      background-color: $blue;
+      color: white;
+      display: inline-block;
+      border-radius: 5px;
+  }
