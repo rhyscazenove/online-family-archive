@@ -17,13 +17,13 @@ a.watch-link {
     display: inline-block;
     border-radius: 1em;
     border: none;
+    border-bottom: 3px solid $white;
 
   }
 
   a.watch-link:hover { 
     
     border-color: $blue;
-    color: white;
     border-bottom: 3px solid $blue;
     border-radius: 3px;
 
