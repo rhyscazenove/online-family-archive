@@ -1,7 +1,7 @@
 ---
 layout: page
-title: family page
+title: Family videos
 permalink: /f/
 ---
 
-*Family Page
+*Coming Soon**

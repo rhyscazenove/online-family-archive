@@ -10,7 +10,7 @@ permalink: /a/
 
 There's quite a lot here, and so I have done what I can to help you navigate through it.  
 
-*Something quick?, try these: *  Coming soon!
+*Something quick?* try these: *  Coming soon!
 
 *Something funny?*  Angharad did quite a bit of light comedy in the early 70s.  Some of the humour has aged better than others, but it is all fascinating! Cacth Me A Spy (1971), Doctors in Charge (1972)
 
@@ -22,22 +22,23 @@ There's quite a lot here, and so I have done what I can to help you navigate thr
 
 # Chronology of work
 
-*1969:* The earliest recording I could find is from 1969, a tv comedy show called **Doctor in the House** ([wikipedia page](https://en.wikipedia.org/wiki/Doctor_in_the_House_(TV_series)){:target="_blank"}).  Silly fun swinging sixties kind of stuff.  And lovely surprise - my uncle Mike Grady is in it too!.  
-[Watch Doctor in the House (25 min)](https://vimeo.com/418522494){:target="_blank"}
+*1969:* The earliest recording I could find is from 1969, a tv comedy show called **Doctor in the House** ([wikipedia page](https://en.wikipedia.org/wiki/Doctor_in_the_House_(TV_series)){:target="_blank"}{:.wiki-link}).  Silly fun swinging sixties kind of stuff.  And lovely surprise - my uncle Mike Grady is in it too!.  
+[Watch Doctor in the House (25 min)](https://vimeo.com/418522494){:target="_blank"}{:.watch-link}
 
-*1970:* She appears briefly in the movie **Jane Ayre** starring Suzanna York and George Scott ([wikipedia](https://en.wikipedia.org/wiki/Jane_Eyre_(1970_film)){:target="_blank"}).  At around 42 minute mark there is a dance, and mum is the one in the yellow dress with white trim. Watch Jane Ayre (1hr 38min)
+*1970:* She appears briefly in the movie **Jane Ayre** starring Suzanna York and George Scott ([wikipedia](https://en.wikipedia.org/wiki/Jane_Eyre_(1970_film)){:target="_blank"}).  At around 42 minute mark there is a dance, and mum is the one in the yellow dress with white trim. 
+[Watch Jane Ayre (1hr 38min)](https://vimeo.com/421465651/){:target="_blank"}{:.watch-link}
 
 *1971:* **Catch Me A Spy** - a spy comedy starring Kirk Douglas and directed by Dick Clement. ([wikipedia](https://en.wikipedia.org/wiki/To_Catch_a_Spy){:target="_blank"}).  Mum appears throughout the movie, first at 5min and later at 26min.  
-[Watch Catch Me A Spy (1hr 38min)](https://vimeo.com/){:target="_blank"}
+[Watch Catch Me A Spy (1hr 38min)](https://vimeo.com/){:target="_blank"}{:.watch-link}
 
 *1971:* TV play **Office Party**, as part of Armchair Theatre, which broadcast plays on ITV in UK from 1956 until 1974 ([read more on wikipedia](https://en.wikipedia.org/wiki/Armchair_Theatre){:target="_blank"}).    
-[Watch Office Party (50 min)](https://vimeo.com/418522199){:target="_blank"}
+[Watch Office Party (50 min)](https://vimeo.com/418522199){:target="_blank"}{:.watch-link}
 
 *1971:* **Hands of the Ripper**, with Eric Porter ([wikipedia](https://en.wikipedia.org/wiki/Hands_of_the_Ripper{:target="_blank"})).  As I grew up mum was quite ashamed / embarraseed that she was in a gruesome horror movie.  She banned me and Linford from seeing it.  As I write this, I still haven't seen it!  But I plan to - it now enjoys a successful cult following within the horror community.  They recently remastered it and released it blueray with an audio interview with mum... I must check it out....  
 [Watch trailer for Hand of the Ripper (2min)](https://www.youtube.com/watch?v=duaH3nPO98s){:target="_blank"}
 
 *1972:* She has a brief appearance in **Baffled!** starring Leonard Nimoy and Susan Hampshire.([wikipedia](https://en.wikipedia.org/wiki/Baffled!){:target="_blank"}).  Dinner scene at 28 min mark.   
-[Watch Baffled! (1hr 30min)](https://vimeo.com/){:target="_blank"}
+[Watch Baffled! (1hr 30min)](https://vimeo.com/420628128){:target="_blank"}
 
 *1972-1973:* A few episodes of comedy tv show **Doctor in Charge** ([wikipedia](https://en.wikipedia.org/wiki/Doctor_in_Charge){:target="_blank"}) - one in series 1, and two episode in series 2.  
 [Watch Doctor in Charge, Series 1 Episode 25 (25min)](https://vimeo.com/418522957){:target="_blank"}  
