@@ -13,10 +13,11 @@ layout: default
 </p>
 
 <div class="posts">
+  <h2>Latest Updates</h2>
   {% for post in site.posts %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.rhys }}: {{ post.title }}</a></h4>
 
       <div class="entry">
         {{ post.excerpt }}
