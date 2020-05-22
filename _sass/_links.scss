@@ -11,7 +11,6 @@ strong, b {
 }
 
 a.watch-link {
-    border: 1px solid $gray;
     background-color: $lightGray;
     padding: 6px;
     margin-top: 10px;
@@ -19,15 +18,13 @@ a.watch-link {
     border-radius: 4px;
   }
   a.watch-link:hover { 
-    border: 1px solid $blue;
     background-color: $blue;
     color: white;
 }
 
   a.wiki-link {
-    border: 1px solid #ddd;
     background-color: #eee;
-    padding: 0px 10px;
+    padding: 0px 20px;
     margin-top: 10px;
     display: inline-block;
     border-radius: 4px;
@@ -45,7 +42,9 @@ a.watch-link {
   }
   
   a.wiki-link:before {
-    content: "\f059";
+    content: "\f35d";
+    font-size: 0.7em;
+    font-weight: 300;
   }
 
 
