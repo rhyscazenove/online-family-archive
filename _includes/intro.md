@@ -1,0 +1,3 @@
+Thanks to COVID, I've finally got round to digitising all the VHS tapes, camcorder tapes, audio cassettes, and other analgue media.  And boy what lovely things have been found!  Some of the tapes were heavily damaged, and so I went in search of higher quality ones online.  And in the process I also found a few vids of things we never recorded.
+
+There's quite a bit more here that I was expecting, so I have written some notes to help you nvaigate the collection and choose what to watch.  Enjoy!

@@ -1,15 +1,10 @@
 ---
 layout: page
-title: Angharad's page
+title: Angharad's videos
 permalink: /a/
 ---
 
 
-# Angharad's videos
-
-Thanks to COVID, I've finally got round to digitising all the VHS tapes, camcorder tapes, audio cassettes, and other analgue media.  And boy what lovely things have been found!  SOme of the tapes were heavily damaged, and so I went in search of higher quality ones online.  And in the process I also found a few vids of things we never recorded.
-
-There's quite a bit more here that I was expecting, so I have written some notes to help you nvaigate the collection and choose what to watch.  Enjoy!
 
 ### Note 
 Some of these videos are not suitable for young people, as they may contain, gore, violence, nudity or other serious adult themes.  There are also some great things that are perfect for kids to watch and enjoy.  I will try to highlight the most/least appropriate, as needed.
