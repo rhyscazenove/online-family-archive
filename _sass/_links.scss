@@ -11,9 +11,13 @@ strong, b {
 }
 
 .year {
-    color: $blue;
-    font-weight:800;
+    color: #4183C4;
+    font-weight: 800;
     font-size: 2em;
+    float: left;
+    line-height: 1em;
+    margin-right: 10px;
+    width: 110px;
 }
 
 a.watch-link {
