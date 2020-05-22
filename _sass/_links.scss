@@ -15,7 +15,7 @@ a.watch-link {
     padding: 5px 5px 5px 15px;
     margin-top: 10px;
     display: inline-block;
-    border-radius: 4px;
+    border-radius: 1em;
     border: 2px solid #ddd;
 
   }
@@ -60,15 +60,16 @@ a.watch-link {
 
 
   .cliplength {
-    background-color: $blue;
-    color: white;
+  
+    color: $blue;
     display: inline-block;
-    border-radius: 5px;
+    border-radius: 1em;
     font-size: 0.7em;
     padding: 3px 10px;
     vertical-align: middle;
     font-style: normal;
     margin-left: 4px;
+    border: 2px solid #eee;
   }
 
   .cliplength:before {  
