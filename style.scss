@@ -293,6 +293,7 @@ a:watch-link {
   display: inline-block;
   border-radius: 4px;
 }
+
 a.watch-link:before,
 a.wiki-link:before {
    font-family: "Font Awesome 5 Free";
@@ -303,8 +304,9 @@ a.wiki-link:before {
 }
 
 a.watch-link:before {
-  content: "\f26c";
+  content: "\f530";
 }
+
 a.wiki-link:before {
   content: "\f212";
 }
