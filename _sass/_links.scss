@@ -34,12 +34,11 @@ a.watch-link {
 }
 
   a.wiki-link {
-    
-    padding: 0px 20px;
+    padding: 0px 10px;
     display: inline-block;
-    border-radius: 4px;
-    border-right: 2px solid $blue;
-    border-left: 2px solid $blue;
+    border-radius: 1em;
+    border-right: 1px solid $blue;
+    border-left: 1px solid $blue;
   }
   
   a.watch-link:before,
