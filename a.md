@@ -47,7 +47,7 @@ There's quite a lot here, and so I have done what I can to help you navigate thr
 
 
 *1973:* Comdey film **The Love Ban** ([wikipedia](https://en.wikipedia.org/wiki/The_Love_Ban){:target="_blank"}{:.wiki-link}), directed by Ralph Thomas and based on the play "It's a 2'6" Above the Ground World".  Warning there is nudity in this (not mum!), and plenty of adult sexual themes, so NSFW!  
-[Watch The Love Ban(1hr 36min)](https://vimeo.com/){:target="_blank"}{:.watch-link}
+[Watch The Love Ban (1hr 36min)](https://vimeo.com/){:target="_blank"}{:.watch-link}
 
 *1974:* Serious film **Joe's Ark**, written by Denis Potter ([wikipedia](https://en.wikipedia.org/wiki/Joe%27s_Ark){:target="_blank"}{:.wiki-link}).  Sad and poigniant story about a woman who dies of cancer.  
 [Watch Joe's Ark (1hr 6min)](https://vimeo.com/){:target="_blank"}{:.watch-link}
