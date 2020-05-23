@@ -20,17 +20,15 @@ There's quite a lot here, and so I have done what I can to help you navigate thr
 
 *Want to see Angharad through the years?*  
 
-# Chronology of work
+# Selection of work, chronologically
 
-{:.timeline-item}
+
 *1969*{:.year} The earliest recording I could find is from 1969, a tv comedy show called **Doctor in the House** [wikipedia page](https://en.wikipedia.org/wiki/Doctor_in_the_House_(TV_series)){:target="_blank"}{:.wiki-link}.  Silly fun swinging sixties kind of stuff.  And lovely surprise - my uncle Mike Grady is in it too!.  
 [Watch Doctor in the House *25 min*{:.cliplength}](https://vimeo.com/418522494){:target="_blank"}{:.watch-link}
 
-{:.timeline-item}
 *1970*{:.year} She appears briefly in the movie **Jane Ayre** starring Suzanna York and George Scott [wikipedia](https://en.wikipedia.org/wiki/Jane_Eyre_(1970_film)){:target="_blank"}{:.wiki-link}.  At around 42 minute mark there is a dance, and mum is the one in the yellow dress with white trim.   
 [Watch Jane Ayre *1hr 38min*{:.cliplength}](https://vimeo.com/421465651/){:target="_blank"}{:.watch-link}
 
-{:.timeline-item}
 *1971*{:.year} **Catch Me A Spy** - a spy comedy starring Kirk Douglas and directed by Dick Clement. [wikipedia](https://en.wikipedia.org/wiki/To_Catch_a_Spy){:target="_blank"}{:.wiki-link}.  Mum appears throughout the movie, first at 5min and later at 26min.  
 [Watch Catch Me A Spy *1hr 38min*{:.cliplength}](https://vimeo.com/){:target="_blank"}{:.watch-link}
 
