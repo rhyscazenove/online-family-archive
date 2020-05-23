@@ -69,6 +69,35 @@ a.watch-link {
             margin-bottom: 10px;
         }
     }
+
+    .cliplength {
+
+        color: $blue;
+        display: inline-block;
+        border-radius: 1em;
+        font-size: 0.7em;
+        padding: 3px 10px;
+        vertical-align: middle;
+        font-style: normal;
+        margin-left: 4px;
+    
+        @include mobile {
+            display: block;
+            position: absolute;
+            top: 5px;
+            right: 0;
+        }
+    
+        &:before {  
+            font-family: "Font Awesome 5 Free";
+            display: inline-block;
+            content: "\f017";
+            padding-right: 4px;
+        }
+    
+        
+        
+    }
 }
 
  
@@ -94,38 +123,6 @@ a.wiki-link {
         padding-right: 6px;
     }
 }
-  
-  a.watch-link:before,
-  a.wiki-link:before,
-  .cliplength:before {
-     font-family: "Font Awesome 5 Free";
-     display: inline-block;
-     padding-right: 6px;
-  }
-  
-  .cliplength {
-    color: $blue;
-    display: inline-block;
-    border-radius: 1em;
-    font-size: 0.7em;
-    padding: 3px 10px;
-    vertical-align: middle;
-    font-style: normal;
-    margin-left: 4px;
 
-    @include mobile {
-        display: block;
-        position: absolute;
-        top: 5px;
-        right: 0;
-    }
 
-    &:before {  
-        content: "\f017";
-        padding-right: 4px;
-    }
-
-    
-    
-}
 
