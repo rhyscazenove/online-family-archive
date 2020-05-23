@@ -80,6 +80,9 @@ There's quite a lot here, and so I have done what I can to help you navigate thr
 [Master of the Game Part 2 *2hr 11min*{:.cliplength}](https://vimeo.com/420458159){:target="_blank"}{:.watch-link}  
 [Master of the Game Part 3 *52min*{:.cliplength}](https://vimeo.com/420459495){:target="_blank"}{:.watch-link}  
 
+*1985*{:.year} appeared in an episode of **Remington Steele** [wikipedia](https://en.wikipedia.org/wiki/Remington_Steele){:target="_blank"}{:.wiki-link}
+[Watch Remington Steele *1hr 45min*{:.cliplength}](https://vimeo.com/418547670){:target="_blank"}{:.watch-link}  
+
 *1985*{:.year} co-starred in **The Forgotten Story**[wikipedia](https://en.wikipedia.org/wiki/The_Forgotten_Story){:target="_blank"}{:.wiki-link}.  Written by the same person who wrote Poldark (Winston Graham) and featuring many of the same cast!  
 [The Forgotten Story Ep 1 *28min*{:.cliplength}](https://vimeo.com/420462151){:target="_blank"}{:.watch-link}  
 [The Forgotten Story Ep 2 *24min*{:.cliplength}](https://vimeo.com/420462464){:target="_blank"}{:.watch-link}  
