@@ -29,12 +29,16 @@ strong, b {
 a.watch-link {
     background-color: $white;
     padding: 5px 5px 5px 0px;
-    margin-top: 10px;
+    
     display: inline-block;
     border-radius: 1em;
     border: none;
     border-bottom: 3px solid $white;
     font-weight: 500;
+
+    &:first-of-type {
+        margin-top: 10px;
+    }
 
     @include mobile {
         padding: 5px 20% 5px 5px;
@@ -66,7 +70,10 @@ a.watch-link {
             padding-right:6px;
             display: block !important;
             float: left;
-            margin-bottom: 10px;
+            margin-bottom: 1em;
+            margin-top: 0.125em;
+            font-size: 0.7em;
+            margin-left:5px;
         }
     }
 
@@ -99,6 +106,7 @@ a.watch-link {
         
     }
 }
+
 
  
 
