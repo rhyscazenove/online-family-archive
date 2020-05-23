@@ -10,6 +10,8 @@ permalink: /a/
 
 There's quite a lot here, and so I have done what I can to help you navigate through it.  
 
+*The Essentials*  Poldark, Joes Ark, Welsh Greats, Under Milk Wood, Hands of The Rippper.
+
 *Something quick?* try these: *  Coming soon!
 
 *Something funny?*  Angharad did quite a bit of light comedy in the early 70s.  Some of the humour has aged better than others, but it is all fascinating! Cacth Me A Spy (1971), Doctors in Charge (1972)
@@ -20,7 +22,7 @@ There's quite a lot here, and so I have done what I can to help you navigate thr
 
 *Want to see Angharad through the years?*  
 
-# Selection of work, chronologically
+# Selected works, by year
 
 
 *1969*{:.year} The earliest recording I could find is from 1969, a tv comedy show called **Doctor in the House** [wikipedia page](https://en.wikipedia.org/wiki/Doctor_in_the_House_(TV_series)){:target="_blank"}{:.wiki-link}.  Silly fun swinging sixties kind of stuff.  And lovely surprise - my uncle Mike Grady is in it too!.  
@@ -90,6 +92,23 @@ There's quite a lot here, and so I have done what I can to help you navigate thr
 [The Forgotten Story Ep 4 *25min*{:.cliplength}](https://vimeo.com/420462961){:target="_blank"}{:.watch-link}  
 [The Forgotten Story Ep 5 *24min*{:.cliplength}](https://vimeo.com/420463219){:target="_blank"}{:.watch-link}  
 [The Forgotten Story Ep 6 *5min*{:.cliplength}](https://vimeo.com/420463485){:target="_blank"}{:.watch-link}  
+
+1988: Temptation of Eileen Hughes
+
+1989: Close to Home
+
+1990: Interview about Dyslexia
+
+1992: Trainer
+
+1992: Performance with Amir & Kfir
+
+1996: Call My Bluff
+
+1997: Friends in Wales
+
+2010: Biography - Welsh Greats
+
 
 
 

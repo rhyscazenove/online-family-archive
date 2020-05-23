@@ -56,15 +56,9 @@ a.watch-link {
         font-weight: 500;
         width: 100%;
         position: relative;
-        background-color: #eee;
+        
         border-radius: 10px;
     }
-
-    &:nth-of-type(1) {
-        
-    }
-
-    
     
     &:hover { 
         background-color: $lightBlue;
@@ -85,9 +79,11 @@ a.watch-link {
             display: block !important;
             float: left;
             margin-bottom: 1em;
-            margin-top: 0.125em;
+            margin-top: 0;
             font-size: 0.7em;
             margin-left:5px;
+            position: relative;
+            top: 4px;
         }
     }
 
