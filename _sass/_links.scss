@@ -42,6 +42,9 @@ a.watch-link {
     border-bottom: 3px solid $white;
     font-weight: 500;
 
+    margin-top: 10px;
+    background-color:red !important;
+
     @include mobile {
         padding: 5px 20% 5px 5px;
         display: block;
@@ -55,8 +58,7 @@ a.watch-link {
     }
 
     &:nth-of-type(1) {
-        margin-top: 10px;
-        background-color:red !important;
+        
     }
 
     
@@ -115,7 +117,10 @@ a.watch-link {
     }
 }
 
-
+a.watch-link ~ a.watch-link {
+    margin-top: 0px;
+    background-color:blue !important;
+}
  
 
 a.wiki-link {
