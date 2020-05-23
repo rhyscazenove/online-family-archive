@@ -1,3 +1,9 @@
+// Mobile breakpoints
+@mixin fontawesome {
+    font-family: "Font Awesome 5 Free";
+    display: inline-block;
+}
+
 h1,h2,h3,h4,h5,h6 {
     font-weight: 300;
 }
@@ -36,10 +42,6 @@ a.watch-link {
     border-bottom: 3px solid $white;
     font-weight: 500;
 
-    &:first-of-type {
-        margin-top: 10px;
-    }
-
     @include mobile {
         padding: 5px 20% 5px 5px;
         display: block;
@@ -51,6 +53,13 @@ a.watch-link {
         background-color: #eee;
         border-radius: 10px;
     }
+
+    &:nth-of-type(1) {
+        margin-top: 10px;
+        background-color:red !important;
+    }
+
+    
     
     &:hover { 
         background-color: $lightBlue;
@@ -96,8 +105,7 @@ a.watch-link {
         }
     
         &:before {  
-            font-family: "Font Awesome 5 Free";
-            display: inline-block;
+            @include fontawesome;
             content: "\f017";
             padding-right: 4px;
         }
@@ -123,8 +131,7 @@ a.wiki-link {
     }
 
     &:before {
-        font-family: "Font Awesome 5 Free";
-        display: inline-block;
+        @include fontawesome;
         content: "\f35d";
         font-size: 0.7em;
         font-weight: 300;
