@@ -4,27 +4,22 @@ title: Angharad's videos
 permalink: /a/
 ---
 
-*Please Note* Some of these videos are not suitable for young people, as they may contain, gore, violence, nudity or other serious adult themes.  There are also some great things that are perfect for kids to watch and enjoy.  I will try to highlight the most/least appropriate, as needed.
+Welcome to Angharad's selected works page.  This is not an exahustive list of her work - please take a look at [her imdb page](https://www.imdb.com/name/nm0715878/){:target="_blank"} for full details.
 
 ### Highlights
 
-There's quite a lot here, and so I have done what I can to help you navigate through it.  
+There's quite a lot here, so here are some ways to work through it.
 
 *The Essentials*  Poldark, Joes Ark, Welsh Greats, Under Milk Wood, Hands of The Rippper.
 
-*Something quick?* try these: *  Coming soon!
-
 *Something funny?*  Angharad did quite a bit of light comedy in the early 70s.  Some of the humour has aged better than others, but it is all fascinating! Cacth Me A Spy (1971), Doctors in Charge (1972)
-
-*Something more serious?* Lots of great ones to choose from... Joe's Ark (1974) should probably be top of your list.
 
 *Something for the kids?* British Fold Tales (1980) is great, and the two Call My Bluff Shows (1980 and 1996) are entertaining.
 
-*Want to see Angharad through the years?*  
 
 # Selected works, by year
 
-*1968:* Avengers  
+*1968*{:.year}  An amazing early-career non-speaking park in The Avengers TV Show.  Only appearing in one shot, but what an amazing composition that literally puts her in the center of the frame.  The episode itself is quite sureal, with Steed being replaced by a doppleganger. I've only been able to [find this one on iTunes](https://tv.apple.com/us/episode/they-keep-killing-steed/umc.cmc.13m8ip6x4rphb0wr4dqu2wn7s?showId=umc.cmc.11q3yqne3abpwkdxrrstnorx1){:target="_blank"}, so you'll have to purchase it there if you want to see it. 
 
 *1969*{:.year} The earliest recording I could find is from 1969, a tv comedy show called **Doctor in the House** [wikipedia page](https://en.wikipedia.org/wiki/Doctor_in_the_House_(TV_series)){:target="_blank"}{:.wiki-link}.  Silly fun swinging sixties kind of stuff.  And lovely surprise - my uncle Mike Grady is in it too!.  
 [Watch Doctor in the House *25 min*{:.cliplength}](https://vimeo.com/418522494){:target="_blank"}{:.watch-link}
