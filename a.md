@@ -99,7 +99,7 @@ There's quite a lot here, so here are some ways to work through it.
 *1988*{:.year} Starred in **The Temptation of Eileen Hughes**[imdb](https://www.imdb.com/title/tt0283628/){:target="_blank"}{:.wiki-link} along with old family friend Jim Norton.  
 [Watch The Temptation of Eileen Hughes *1hr 8min*{:.cliplength}](https://vimeo.com/420626958){:target="_blank"}{:.watch-link}  
 
-*1989*{:.year} Starred in two series of TV Sitcom **Close to Home**[wikipedia](https://en.wikipedia.org/wiki/Close_to_Home_(1989_TV_series)){:target="_blank"}{:.wiki-link}.  It has a fun cast and a some great guest appearances.  Unfortunately I do not appear to have the second half of the second series...
+*1989*{:.year} Starred in two series of TV Sitcom **Close to Home**[wikipedia](https://en.wikipedia.org/wiki/Close_to_Home_(1989_TV_series)){:target="_blank"}{:.wiki-link}.  It has a fun cast and a some great guest appearances.  Unfortunately I do not appear to have the second half of the second series...  
 [Close to Home Series 1 Episode 1 *25min*{:.cliplength}](https://vimeo.com/417588223){:target="_blank"}{:.watch-link}
 [Close to Home Series 1 Episode 2 *25min*{:.cliplength}](https://vimeo.com/417588586){:target="_blank"}{:.watch-link}
 [Close to Home Series 1 Episode 3 *25min*{:.cliplength}](https://vimeo.com/417606638){:target="_blank"}{:.watch-link}
@@ -117,17 +117,32 @@ There's quite a lot here, so here are some ways to work through it.
 *1990*{:.year} She appears in a lovely interview about dyslexia on a show called Sky by Day.  
 [Watch interview about dyslexia *10min*{:.cliplength}](https://vimeo.com/417595766){:target="_blank"}{:.watch-link} 
 
-*1992*{:.year}  She was a major character introdued in the second series of Trainer, co-staring family friend Patrick Ryecart.
+*1992*{:.year}  She was a major character introdued in the second series of Trainer, co-staring family friend Patrick Ryecart.  
+[Trainer Series 2 Episode 1 *49min*{:.cliplength}](https://vimeo.com/420637697){:target="_blank"}{:.watch-link}
+[Trainer Series 2 Episode 2 *38min*{:.cliplength}](https://vimeo.com/420637870){:target="_blank"}{:.watch-link}
+[Trainer Series 2 Episode 3 *49min*{:.cliplength}](https://vimeo.com/420637956){:target="_blank"}{:.watch-link}
+[Trainer Series 2 Episode 4 *48min*{:.cliplength}](https://vimeo.com/420638014){:target="_blank"}{:.watch-link}
+[Trainer Series 2 Episode 5 *49min*{:.cliplength}](https://vimeo.com/420638082){:target="_blank"}{:.watch-link}
 
-*1992*{:.year}  Performance with Amir & Kfir
+*1992*{:.year}  Interview as part of a daily program called Coffee Break
+[Watch Coffee Break Interviews *38min*{:.cliplength}](https://vimeo.com/417596369){:target="_blank"}{:.watch-link}
 
-*1996*{:.year}<a name="callmybluff1996"></a>  Call My Bluff
+*1992*{:.year}  Fantasie Nocturne performance with Amir & Kfir at Turtle Keg Gallery.  
+[Watch Fantasie Nocturne Promo *6min*{:.cliplength}](https://vimeo.com/418561977){:target="_blank"}{:.watch-link}
+[Watch Fantasie Nocturne Performance *51min*{:.cliplength}](https://vimeo.com/418562273){:target="_blank"}{:.watch-link}
 
-*1997*{:.year}  Friends in Wales
+
+*1996*{:.year}<a name="callmybluff1996"></a>  Another delightful appearance in Call My Bluff.  It's a real shame I cann't find more episodes from this time :(  
+[Watch Call My Bluff *28min*{:.cliplength}](https://vimeo.com/417591281){:target="_blank"}{:.watch-link}  
+
+*1997*{:.year} Friends in Wales.
+[Friends in Wales *29min*{:.cliplength}](https://vimeo.com/416934226){:target="_blank"}{:.watch-link}  
 
 *2000*{:.year}  Jewellery Promo
 
-*2010*{:.year}  Biography - Welsh Greats
+
+*2010*{:.year}  Angharad is celebrated in this lovely and personal biography put together by Welsh Greats.
+[Watch Welsh Greats *28min*{:.cliplength}](https://vimeo.com/418570298){:target="_blank"}{:.watch-link}  
 
 
 
