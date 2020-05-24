@@ -42,8 +42,8 @@ There's quite a lot here, so here are some ways to work through it.
 [Watch Baffled! *1hr 30min*{:.cliplength}](https://vimeo.com/420628128){:target="_blank"}{:.watch-link}
 
 *1972-1973*{:.year} A few episodes of comedy tv show **Doctor in Charge** [wikipedia](https://en.wikipedia.org/wiki/Doctor_in_Charge){:target="_blank"}{:.wiki-link} - one in series 1, and two episode in series 2.  
-[Watch Doctor in Charge, Series 1 Episode 25 *25min*{:.cliplength}](https://vimeo.com/418522957){:target="_blank"}{:.watch-link}  
-[Watch Doctor in Charge, Series 2 Episode 5 *25min*{:.cliplength}](https://vimeo.com/418523078){:target="_blank"}{:.watch-link}  
+[Watch Doctor in Charge, Series 1 Episode 25 *25min*{:.cliplength}](https://vimeo.com/418522957){:target="_blank"}{:.watch-link}
+[Watch Doctor in Charge, Series 2 Episode 5 *25min*{:.cliplength}](https://vimeo.com/418523078){:target="_blank"}{:.watch-link}
 [Watch Doctor in Charge, Series 2 Episode 13 *25min*{:.cliplength}](https://vimeo.com/418523475){:target="_blank"}{:.watch-link}
 
 
@@ -66,7 +66,7 @@ There's quite a lot here, so here are some ways to work through it.
 *1980*{:.year} **Morcambe and Wise Christmas Special** [wikipedia](https://en.wikipedia.org/wiki/Morecambe_and_Wise#Christmas_specials){:target="_blank"}{:.wiki-link}
 
 *1980*{:.year} Period horror mystery **The Curse of King Tut's Tomb** [wikipedia](https://en.wikipedia.org/wiki/The_Curse_of_King_Tut%27s_Tomb_(1980_film)){:target="_blank"}{:.wiki-link}.  
-[Watch The Curse of King Tut's Tomb (part 1) *45min*{:.cliplength}](https://vimeo.com/418540288){:target="_blank"}{:.watch-link}  
+[Watch The Curse of King Tut's Tomb (part 1) *45min*{:.cliplength}](https://vimeo.com/418540288){:target="_blank"}{:.watch-link}
 [Watch The Curse of King Tut's Tomb (part 2) *48min*{:.cliplength}](https://vimeo.com/418541700){:target="_blank"}{:.watch-link}
 
 *1980*{:.year} stars in **Middle English**[wikipedia](https://en.wikipedia.org/wiki/ITV_Schools){:target="_blank"}{:.wiki-link}, and talks about books and folk tales. Made by Independent Television for Schools and Colleges, it was part of the educational service. She has a beautiful royal accent in this - very posh and proper!  Sweet though, and child friendly.  
@@ -79,10 +79,10 @@ There's quite a lot here, so here are some ways to work through it.
 [Watch British Folk Tales *20min*{:.cliplength}](https://vimeo.com/416934829){:target="_blank"}{:.watch-link}
 
 *1984*{:.year} co-stars in TV minisearies **Master of the Game**[wikipedia](https://en.wikipedia.org/wiki/Master_of_the_Game_(novel)){:target="_blank"}{:.wiki-link}.  There's a shorter highlight video if you just want to get a taste for it.  
-[Master of the Game Highlights *23min*{:.cliplength}](https://vimeo.com/420452141){:target="_blank"}{:.watch-link}  
-[Master of the Game Part 1 *2hr 15min*{:.cliplength}](https://vimeo.com/420452443){:target="_blank"}{:.watch-link}  
-[Master of the Game Part 2 *2hr 11min*{:.cliplength}](https://vimeo.com/420458159){:target="_blank"}{:.watch-link}  
-[Master of the Game Part 3 *52min*{:.cliplength}](https://vimeo.com/420459495){:target="_blank"}{:.watch-link}  
+[Master of the Game Highlights *23min*{:.cliplength}](https://vimeo.com/420452141){:target="_blank"}{:.watch-link}
+[Master of the Game Part 1 *2hr 15min*{:.cliplength}](https://vimeo.com/420452443){:target="_blank"}{:.watch-link}
+[Master of the Game Part 2 *2hr 11min*{:.cliplength}](https://vimeo.com/420458159){:target="_blank"}{:.watch-link}
+[Master of the Game Part 3 *52min*{:.cliplength}](https://vimeo.com/420459495){:target="_blank"}{:.watch-link}
 
 *1985*{:.year} appeared in an episode of **Remington Steele** [wikipedia](https://en.wikipedia.org/wiki/Remington_Steele){:target="_blank"}{:.wiki-link}
 [Watch Remington Steele *1hr 45min*{:.cliplength}](https://vimeo.com/418547670){:target="_blank"}{:.watch-link}  
