@@ -19,6 +19,15 @@ strong, b {
     }
 }
 */
+
+.entry a {
+
+    &:hover {
+        background-color: $lightBlue;
+    }
+}
+
+
 .year {
     color: #ccc;
     font-weight: 800;
