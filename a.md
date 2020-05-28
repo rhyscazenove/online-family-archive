@@ -155,7 +155,7 @@ There's quite a lot here, so here are some ways to work through it.
 *1997*{:.year} Appeared in daytime program **Friends in Wales**.  
 [Friends in Wales *29min*{:.cliplength}](https://vimeo.com/416934226){:target="_blank"}{:.watch-link}  
 
-*2000*{:.year}  This is the only video promotion I can find for her jewellery business!  I am not sure where it was used.
+*2000*{:.year}  This is the only video promotion I can find for her jewellery business!  I am not sure where it was used.  
 [Watch jewellery promo *4min*{:.cliplength}](https://vimeo.com/421993094){:target="_blank"}{:.watch-link}  
 
 *2002*{:.year}<a name="dylanondylan"></a>  She appears in a documentary about Dylan Thomas **Dylan on Dylan**.
