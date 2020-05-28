@@ -67,9 +67,9 @@ There's quite a lot here, so here are some ways to work through it.
 *1975-1979*{:.year}<a name="poldark"></a> **Poldark** [wikipedia](https://en.wikipedia.org/wiki/Poldark_(1975_TV_series)){:target="_blank"}{:.wiki-link}.  I don't need to say anything about this, as there is so much out there.  The dvds are still widely available, so I highly recommend you buy or borrow them to watch.  However, if you just wanted to watch one epsiode, then arguably the first episode of the second season is a great taste of the characters and the story...   
 [Watch Poldark Series 2 Ep 1 *53min*{:.cliplength}](https://vimeo.com/421993221){:target="_blank"}{:.watch-link}
 
-*1978*{:.year} BBC Shakespearean play **As You Like It**[wikipedia](https://en.wikipedia.org/wiki/BBC_Television_Shakespeare#As_You_Like_It)){:target="_blank"}{:.wiki-link} starring Helen Mirren.
+*1978*{:.year} BBC Shakespearean play **As You Like It** [wikipedia](https://en.wikipedia.org/wiki/BBC_Television_Shakespeare#As_You_Like_It){:target="_blank"}{:.wiki-link} starring Helen Mirren.
 
-*1980*{:.year}<a name="morcambe"></a> **Morcambe and Wise Christmas Special** [wikipedia](https://en.wikipedia.org/wiki/Morecambe_and_Wise#Christmas_specials){:target="_blank"}{:.wiki-link}
+*1980*{:.year}<a name="morcambe"></a> **Morcambe and Wise Christmas Special** ([wikipedia](https://en.wikipedia.org/wiki/Morecambe_and_Wise#Christmas_specials){:target="_blank"}{:.wiki-link}
 [Watch Morcambe and Wise Xmas Special *35min*{:.cliplength}](https://vimeo.com/421993123){:target="_blank"}{:.watch-link}
 
 *1980*{:.year} Period horror mystery **The Curse of King Tut's Tomb** [wikipedia](https://en.wikipedia.org/wiki/The_Curse_of_King_Tut%27s_Tomb_(1980_film)){:target="_blank"}{:.wiki-link}.  
