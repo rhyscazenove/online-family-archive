@@ -6,7 +6,7 @@
 name: Online Family Archive
 
 # Short bio or description (displayed in the header)
-description: I've been going through the boxes, and have lots of videos to share!
+description: from analogue to digital
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: 
@@ -37,11 +37,11 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-167898307-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: www.onlinefamilyarchive.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
