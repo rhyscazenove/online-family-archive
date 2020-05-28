@@ -35,6 +35,7 @@ There's quite a lot here, so here are some ways to work through it.
 
 *1971*{:.year}<a name="handsoftheripper"></a> **Hands of the Ripper**, with Eric Porter [wikipedia](https://en.wikipedia.org/wiki/Hands_of_the_Ripper){:target="_blank"}{:.wiki-link}.  As I grew up mum was quite ashamed / embarraseed that she was in a gruesome horror movie.  She banned me and Linford from seeing it.  As I write this, I still haven't seen it!  But I plan to - it now enjoys a successful cult following within the horror community.  They recently remastered it and released it blueray with an audio interview with mum... I must check it out....  
 [Watch trailer for Hand of the Ripper *2min*{:.cliplength}](https://www.youtube.com/watch?v=duaH3nPO98s){:target="_blank"}{:.watch-link}
+[Watch Hand of the Ripper *1hr 22min*{:.cliplength}](https://vimeo.com/423595441){:target="_blank"}{:.watch-link}
 
 *1972*{:.year}<a name="undermilkwood"></a> **Under Milk Wood** [wikipedia](https://en.wikipedia.org/wiki/Under_Milk_Wood_(1972_film)){:target="_blank"}{:.wiki-link}
 
@@ -59,11 +60,13 @@ There's quite a lot here, so here are some ways to work through it.
 *1974*{:.year} TV Drama episode **Thriller: Once the Killing Starts** [wikipedia](https://en.wikipedia.org/wiki/Thriller_(British_TV_series)#Series_2_(1974)){:target="_blank"}{:.wiki-link}  
 [Watch Thriller: Once the Killing Starts  *1hr 10min*{:.cliplength}](https://vimeo.com/418572161){:target="_blank"}{:.watch-link}
 
-*1975-1979*{:.year}<a name="poldark"></a> **Poldark** [wikipedia](https://en.wikipedia.org/wiki/Poldark_(1975_TV_series)){:target="_blank"}{:.wiki-link}.  I don't need to say anything about this, as there is so much out there.  The dvds are still widely available, so I highly recommend you buy or borrow them to watch.  However, if you just wanted to watch one epsiode, then arguably the first episode of the second season is a great taste of the characters and the story...
-
+*1975-1979*{:.year}<a name="poldark"></a> **Poldark** [wikipedia](https://en.wikipedia.org/wiki/Poldark_(1975_TV_series)){:target="_blank"}{:.wiki-link}.  I don't need to say anything about this, as there is so much out there.  The dvds are still widely available, so I highly recommend you buy or borrow them to watch.  However, if you just wanted to watch one epsiode, then arguably the first episode of the second season is a great taste of the characters and the story...   
 [Watch Poldark Series 2 Ep 1 *53min*{:.cliplength}](https://vimeo.com/421993221){:target="_blank"}{:.watch-link}
 
+*1978*{:.year} BBC Shakespearean play **As You Like It**[wikipedia](https://en.wikipedia.org/wiki/BBC_Television_Shakespeare#As_You_Like_It)){:target="_blank"}{:.wiki-link} starring Helen Mirren.
+
 *1980*{:.year}<a name="morcambe"></a> **Morcambe and Wise Christmas Special** [wikipedia](https://en.wikipedia.org/wiki/Morecambe_and_Wise#Christmas_specials){:target="_blank"}{:.wiki-link}
+[Watch Morcambe and Wise Xmas Special *35min*{:.cliplength}](https://vimeo.com/421993123){:target="_blank"}{:.watch-link}
 
 *1980*{:.year} Period horror mystery **The Curse of King Tut's Tomb** [wikipedia](https://en.wikipedia.org/wiki/The_Curse_of_King_Tut%27s_Tomb_(1980_film)){:target="_blank"}{:.wiki-link}.  
 [Watch The Curse of King Tut's Tomb (part 1) *45min*{:.cliplength}](https://vimeo.com/418540288){:target="_blank"}{:.watch-link}
@@ -95,9 +98,14 @@ There's quite a lot here, so here are some ways to work through it.
 [The Forgotten Story Ep 5 *24min*{:.cliplength}](https://vimeo.com/420463219){:target="_blank"}{:.watch-link}
 [The Forgotten Story Ep 6 *5min*{:.cliplength}](https://vimeo.com/420463485){:target="_blank"}{:.watch-link}
 
+*1987*{:.year} Appears in daytime tv program **The Time The Place**[imdb](https://www.imdb.com/title/tt0283628/){:target="_blank"}{:.wiki-link}.  
+[Watch The Time The Place *36min*{:.cliplength}](https://vimeo.com/423598232){:target="_blank"}{:.watch-link}  
 
 *1988*{:.year} Starred in **The Temptation of Eileen Hughes**[imdb](https://www.imdb.com/title/tt0283628/){:target="_blank"}{:.wiki-link} along with old family friend Jim Norton.  
 [Watch The Temptation of Eileen Hughes *1hr 8min*{:.cliplength}](https://vimeo.com/420626958){:target="_blank"}{:.watch-link}  
+
+*1988*{:.year} Appeared in documentary in in **The Southbank Show on Under Milk Wood**[wikipedia](https://en.wikipedia.org/wiki/The_South_Bank_Show){:target="_blank"}{:.wiki-link}  
+[Watch The Southbank Show *55min*{:.cliplength}](https://vimeo.com/421993334){:target="_blank"}{:.watch-link}  
 
 *1989*{:.year} Starred in two series of TV Sitcom **Close to Home**[wikipedia](https://en.wikipedia.org/wiki/Close_to_Home_(1989_TV_series)){:target="_blank"}{:.wiki-link}.  It has a fun cast and a some great guest appearances.  Unfortunately I do not appear to have the second half of the second series...  
 [Close to Home Series 1 Episode 1 *25min*{:.cliplength}](https://vimeo.com/417588223){:target="_blank"}{:.watch-link}
@@ -113,9 +121,15 @@ There's quite a lot here, so here are some ways to work through it.
 [Close to Home Series 2 Episode 2 *25min*{:.cliplength}](https://vimeo.com/417979074){:target="_blank"}{:.watch-link}
 [Close to Home Series 2 Episode 3 *25min*{:.cliplength}](https://vimeo.com/417979284){:target="_blank"}{:.watch-link}
 
+*1989*{:.year} She was interviewed on **This Morning**
+[Watch interview about Close To Home *11min*{:.cliplength}](https://vimeo.com/423615636){:target="_blank"}{:.watch-link} 
 
 *1990*{:.year} She appears in a lovely interview about dyslexia on a show called Sky by Day.  
 [Watch interview about dyslexia *10min*{:.cliplength}](https://vimeo.com/417595766){:target="_blank"}{:.watch-link} 
+
+*1991*{:.year} Guest appearance in TV Show **Boon**[wikipedia](https://en.wikipedia.org/wiki/Boon_(TV_series)){:target="_blank"}{:.wiki-link}.   
+[Watch interview about dyslexia *10min*{:.cliplength}](https://vimeo.com/421938594){:target="_blank"}{:.watch-link} 
+
 
 *1992*{:.year}  She was a major character introdued in the second series of Trainer, co-staring family friend Patrick Ryecart.  
 [Trainer Series 2 Episode 1 *49min*{:.cliplength}](https://vimeo.com/420637697){:target="_blank"}{:.watch-link}
@@ -131,21 +145,20 @@ There's quite a lot here, so here are some ways to work through it.
 [Watch Fantasie Nocturne Promo *6min*{:.cliplength}](https://vimeo.com/418561977){:target="_blank"}{:.watch-link}
 [Watch Fantasie Nocturne Performance *51min*{:.cliplength}](https://vimeo.com/418562273){:target="_blank"}{:.watch-link}
 
-
 *1996*{:.year}<a name="callmybluff1996"></a>  Another delightful appearance in Call My Bluff.  It's a real shame I cann't find more episodes from this time :(  
 [Watch Call My Bluff *28min*{:.cliplength}](https://vimeo.com/417591281){:target="_blank"}{:.watch-link}  
 
-*1997*{:.year} Friends in Wales.
+*1997*{:.year} Appeared in daytime program Friends in Wales.
 [Friends in Wales *29min*{:.cliplength}](https://vimeo.com/416934226){:target="_blank"}{:.watch-link}  
 
-*2000*{:.year}  Jewellery Promo
+*2000*{:.year}  This is the only video promotion I can find for her jewellery business!  I am not sure where it was used.
+[Watch jewellery promo *4min*{:.cliplength}](https://vimeo.com/421993094){:target="_blank"}{:.watch-link}  
 
+*2002*{:.year}  She appears in a documentary about Dylan Thomas **Dylan on Dylan**.
+[Watch Dylan on Dylan *1hr 5min*{:.cliplength}](https://vimeo.com/423591640){:target="_blank"}{:.watch-link}  
+
+*2008*{:.year}  She appears in a documentary about Poldark **The Cult of Poldark**.
+[Watch The Cult of Poldark *1hr 5min*{:.cliplength}](https://vimeo.com/423594211){:target="_blank"}{:.watch-link}  
 
 *2010*{:.year}  Angharad is celebrated in this lovely and personal biography put together by Welsh Greats.
 [Watch Welsh Greats *28min*{:.cliplength}](https://vimeo.com/418570298){:target="_blank"}{:.watch-link}  
-
-
-
-
-
-[Watch (min)](https://vimeo.com/){:target="_blank"}
