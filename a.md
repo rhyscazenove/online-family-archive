@@ -10,11 +10,11 @@ Welcome to Angharad's selected works page.  This is not an exahustive list of he
 
 There's quite a lot here, so here are some ways to work through it.
 
-*The Essentials*  [Welsh Greats](#welshgreats), [Poldark](#poldark), [Joes Ark](#joesark),  [Under Milk Wood](#undermilkwood), [Hands of The Rippper](#handsoftheripper).
+*The Essentials*  [Welsh Greats (2010)](#welshgreats), [Poldark (1974)](#poldark), [Joes Ark (1974)](#joesark),  [Under Milk Wood (1972)](#undermilkwood), [Hands of The Ripper (1971)](#handsoftheripper).
 
-*The Poldark Set*  [Poldark (1976)](#poldark), [Morcambe & Wise (1976)](#morecambe), [Cult of Poldark (2002)](#cultofpoldark)
+*The Poldark Set*  [Poldark (1976)](#poldark), [Morcambe & Wise (1976)](#morcambe), [Cult of Poldark (2002)](#cultofpoldark)
 
-*Under Milk Wood* [Under Milk Wood](#undermilkwood), [Southbank Show (1998)](#southbank), [Dylan on Dylan (2002)](#dylanondylan)
+*Under Milk Wood* [Under Milk Wood (1972)](#undermilkwood), [Southbank Show (1998)](#southbank), [Dylan on Dylan (2002)](#dylanondylan)
 
 *Something funny?*  Angharad did quite a bit of light comedy in the early 70s.  Some of the humour has aged better than others, but it is all fascinating! [Catch Me A Spy (1971)](#catchmeaspy), [Doctors in Charge (1972)](#doctorsincharge)
 
