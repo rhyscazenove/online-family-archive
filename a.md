@@ -86,21 +86,21 @@ There's quite a lot here, so here are some ways to work through it.
 [Watch British Folk Tales *20min*{:.cliplength}](https://vimeo.com/416934829){:target="_blank"}{:.watch-link}
 
 *1984*{:.year} co-stars in TV minisearies **Master of the Game**[wikipedia](https://en.wikipedia.org/wiki/Master_of_the_Game_(novel)){:target="_blank"}{:.wiki-link}.  There's a shorter highlight video if you just want to get a taste for it.  
-[Master of the Game Highlights *23min*{:.cliplength}](https://vimeo.com/420452141){:target="_blank"}{:.watch-link}
-[Master of the Game Part 1 *2hr 15min*{:.cliplength}](https://vimeo.com/420452443){:target="_blank"}{:.watch-link}
-[Master of the Game Part 2 *2hr 11min*{:.cliplength}](https://vimeo.com/420458159){:target="_blank"}{:.watch-link}
-[Master of the Game Part 3 *52min*{:.cliplength}](https://vimeo.com/420459495){:target="_blank"}{:.watch-link}
+[Master of the Game Highlights *23min*{:.cliplength}](https://vimeo.com/420452141){:target="_blank"}{:.watch-link}  
+[Master of the Game Part 1 *2hr 15min*{:.cliplength}](https://vimeo.com/420452443){:target="_blank"}{:.watch-link}  
+[Master of the Game Part 2 *2hr 11min*{:.cliplength}](https://vimeo.com/420458159){:target="_blank"}{:.watch-link}  
+[Master of the Game Part 3 *52min*{:.cliplength}](https://vimeo.com/420459495){:target="_blank"}{:.watch-link}  
 
 *1985*{:.year} appeared in an episode of **Remington Steele** [wikipedia](https://en.wikipedia.org/wiki/Remington_Steele){:target="_blank"}{:.wiki-link}
 [Watch Remington Steele *1hr 45min*{:.cliplength}](https://vimeo.com/418547670){:target="_blank"}{:.watch-link}  
 
 *1985*{:.year} co-starred in **The Forgotten Story**[wikipedia](https://en.wikipedia.org/wiki/The_Forgotten_Story){:target="_blank"}{:.wiki-link}.  Written by the same person who wrote Poldark (Winston Graham) and featuring many of the same cast!  
-[The Forgotten Story Ep 1 *28min*{:.cliplength}](https://vimeo.com/420462151){:target="_blank"}{:.watch-link}
-[The Forgotten Story Ep 2 *24min*{:.cliplength}](https://vimeo.com/420462464){:target="_blank"}{:.watch-link}
-[The Forgotten Story Ep 3 *24min*{:.cliplength}](https://vimeo.com/420462719){:target="_blank"}{:.watch-link}
-[The Forgotten Story Ep 4 *25min*{:.cliplength}](https://vimeo.com/420462961){:target="_blank"}{:.watch-link}
-[The Forgotten Story Ep 5 *24min*{:.cliplength}](https://vimeo.com/420463219){:target="_blank"}{:.watch-link}
-[The Forgotten Story Ep 6 *5min*{:.cliplength}](https://vimeo.com/420463485){:target="_blank"}{:.watch-link}
+[The Forgotten Story Ep 1 *28min*{:.cliplength}](https://vimeo.com/420462151){:target="_blank"}{:.watch-link}  
+[The Forgotten Story Ep 2 *24min*{:.cliplength}](https://vimeo.com/420462464){:target="_blank"}{:.watch-link}  
+[The Forgotten Story Ep 3 *24min*{:.cliplength}](https://vimeo.com/420462719){:target="_blank"}{:.watch-link}  
+[The Forgotten Story Ep 4 *25min*{:.cliplength}](https://vimeo.com/420462961){:target="_blank"}{:.watch-link}  
+[The Forgotten Story Ep 5 *24min*{:.cliplength}](https://vimeo.com/420463219){:target="_blank"}{:.watch-link}  
+[The Forgotten Story Ep 6 *5min*{:.cliplength}](https://vimeo.com/420463485){:target="_blank"}{:.watch-link}  
 
 *1987*{:.year} Appears in daytime tv program **The Time The Place**[imdb](https://www.imdb.com/title/tt0283628/){:target="_blank"}{:.wiki-link}.  
 [Watch The Time The Place *36min*{:.cliplength}](https://vimeo.com/423598232){:target="_blank"}{:.watch-link}  
@@ -136,11 +136,11 @@ There's quite a lot here, so here are some ways to work through it.
 
 
 *1992*{:.year}  She was a major character introdued in the second series of **Trainer**, co-staring family friend Patrick Ryecart.  
-[Trainer Series 2 Episode 1 *49min*{:.cliplength}](https://vimeo.com/420637697){:target="_blank"}{:.watch-link}
-[Trainer Series 2 Episode 2 *38min*{:.cliplength}](https://vimeo.com/420637870){:target="_blank"}{:.watch-link}
-[Trainer Series 2 Episode 3 *49min*{:.cliplength}](https://vimeo.com/420637956){:target="_blank"}{:.watch-link}
-[Trainer Series 2 Episode 4 *48min*{:.cliplength}](https://vimeo.com/420638014){:target="_blank"}{:.watch-link}
-[Trainer Series 2 Episode 5 *49min*{:.cliplength}](https://vimeo.com/420638082){:target="_blank"}{:.watch-link}
+[Trainer Series 2 Episode 1 *49min*{:.cliplength}](https://vimeo.com/420637697){:target="_blank"}{:.watch-link}  
+[Trainer Series 2 Episode 2 *38min*{:.cliplength}](https://vimeo.com/420637870){:target="_blank"}{:.watch-link}  
+[Trainer Series 2 Episode 3 *49min*{:.cliplength}](https://vimeo.com/420637956){:target="_blank"}{:.watch-link}  
+[Trainer Series 2 Episode 4 *48min*{:.cliplength}](https://vimeo.com/420638014){:target="_blank"}{:.watch-link}  
+[Trainer Series 2 Episode 5 *49min*{:.cliplength}](https://vimeo.com/420638082){:target="_blank"}{:.watch-link}  
 
 *1992*{:.year}  Interview as part of a daily program called **Coffee Break**
 [Watch Coffee Break Interviews *38min*{:.cliplength}](https://vimeo.com/417596369){:target="_blank"}{:.watch-link}
@@ -152,7 +152,7 @@ There's quite a lot here, so here are some ways to work through it.
 *1996*{:.year}<a name="callmybluff1996"></a>  Another delightful appearance in **Call My Bluff**.  It's a real shame I cann't find more episodes from this time :(  
 [Watch Call My Bluff *28min*{:.cliplength}](https://vimeo.com/417591281){:target="_blank"}{:.watch-link}  
 
-*1997*{:.year} Appeared in daytime program **Friends in Wales**.
+*1997*{:.year} Appeared in daytime program **Friends in Wales**.  
 [Friends in Wales *29min*{:.cliplength}](https://vimeo.com/416934226){:target="_blank"}{:.watch-link}  
 
 *2000*{:.year}  This is the only video promotion I can find for her jewellery business!  I am not sure where it was used.
@@ -164,5 +164,5 @@ There's quite a lot here, so here are some ways to work through it.
 *2008*{:.year}<a name="cultofpoldark"></a>  She appears in a documentary about Poldark **The Cult of Poldark**.
 [Watch The Cult of Poldark *1hr 5min*{:.cliplength}](https://vimeo.com/423594211){:target="_blank"}{:.watch-link}  
 
-*2010*{:.year}  Angharad is celebrated in this lovely and personal biography put together by Welsh Greats.
+*2010*{:.year}  Angharad is celebrated in this lovely and personal biography put together by **Welsh Greats**.
 [Watch Welsh Greats *28min*{:.cliplength}](https://vimeo.com/418570298){:target="_blank"}{:.watch-link}  
