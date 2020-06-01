@@ -85,7 +85,7 @@ There's quite a lot here, so here are some ways to work through it.
 *1981*{:.year} stars in **Dear Brutus** alongside family friend, Joanna David [wikipedia](https://en.wikipedia.org/wiki/Dear_Brutus){:.wiki-link}.  
 [Watch British Folk Tales *20min*{:.cliplength}](https://vimeo.com/416934829){:.watch-link}
 
-*1984*{:.year} co-stars in TV minisearies **Master of the Game**[wikipedia](https://en.wikipedia.org/wiki/Master_of_the_Game_(novel)){:.wiki-link}.  There's a shorter highlight video if you just want to get a taste for it.  
+*1984*{:.year} co-stars in TV mini-series **Master of the Game**[wikipedia](https://en.wikipedia.org/wiki/Master_of_the_Game_(novel)){:.wiki-link}.  There's a shorter highlight video if you just want to get a taste for it.  
 [Master of the Game Highlights *23min*{:.cliplength}](https://vimeo.com/420452141){:.watch-link}  
 [Master of the Game Part 1 *2hr 15min*{:.cliplength}](https://vimeo.com/420452443){:.watch-link}  
 [Master of the Game Part 2 *2hr 11min*{:.cliplength}](https://vimeo.com/420458159){:.watch-link}  
@@ -154,6 +154,11 @@ There's quite a lot here, so here are some ways to work through it.
 
 *1997*{:.year} Appeared in daytime program **Friends in Wales**.  
 [Friends in Wales *29min*{:.cliplength}](https://vimeo.com/416934226){:.watch-link}  
+
+*1997*{:.year} Appeared in film **The Wolves of Kromer** alongside several friends including Kevin Moore.  
+[Wolves of Kromer trailer *2min*{:.cliplength}](https://vimeo.com/424801819){:.watch-link}  
+[Wolves of Kromer film *1hr 16min*{:.cliplength}](https://vimeo.com/424801302){:.watch-link}  
+[Wolves of Kromer interview with cast and crew *21min*{:.cliplength}](https://vimeo.com/424801690){:.watch-link}  
 
 *2000*{:.year}  This is the only video promotion I can find for her jewellery business!  I am not sure where it was used.  
 [Watch jewellery promo *4min*{:.cliplength}](https://vimeo.com/421993094){:.watch-link}  
