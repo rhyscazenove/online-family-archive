@@ -39,7 +39,8 @@ There's quite a lot here, so here are some ways to work through it.
 
 *1971*{:.year}<a name="handsoftheripper"></a> **Hands of the Ripper**, with Eric Porter [wikipedia](https://en.wikipedia.org/wiki/Hands_of_the_Ripper){:.wiki-link}.  As I grew up mum was quite ashamed / embarraseed that she was in a gruesome horror movie.  She banned me and Linford from seeing it.  As I write this, I still haven't seen it!  But I plan to - it now enjoys a successful cult following within the horror community.  They recently remastered it and released it blueray with an audio interview with mum... I must check it out....  
 [Watch trailer for Hand of the Ripper *2min*{:.cliplength}](https://www.youtube.com/watch?v=duaH3nPO98s){:.watch-link}
-[Watch Hands of the Ripper *1hr 22min*{:.cliplength}](https://vimeo.com/423595441){:.watch-link}
+[Watch Hands of the Ripper VHS *1hr 22min*{:.cliplength}](https://vimeo.com/423595441){:.watch-link}
+[Watch Hands of the Ripper DVD *1hr 22min*{:.cliplength}](https://vimeo.com/428488446){:.watch-link}
 
 *1972*{:.year}<a name="undermilkwood"></a> **Under Milk Wood** [wikipedia](https://en.wikipedia.org/wiki/Under_Milk_Wood_(1972_film)){:.wiki-link}
 
