@@ -54,7 +54,7 @@ There's quite a lot here, so here are some ways to work through it.
 [Watch Doctor in Charge, Series 2 Episode 13 *25min*{:.cliplength}](https://vimeo.com/418523475){:.watch-link}
 
 
-*1973*{:.year} Comdey film **The Love Ban** [wikipedia](https://en.wikipedia.org/wiki/The_Love_Ban){:.wiki-link}, directed by Ralph Thomas and based on the play "It's a 2'6" Above the Ground World".  Warning there is nudity in this (not mum!), and plenty of adult sexual themes, so NSFW!  
+*1973*{:.year} Comedy film **The Love Ban** [wikipedia](https://en.wikipedia.org/wiki/The_Love_Ban){:.wiki-link}, directed by Ralph Thomas and based on the play "It's a 2'6" Above the Ground World".  Warning there is nudity in this (not mum!), and plenty of adult sexual themes, so NSFW!  
 [Watch The Love Ban *1hr 36min*{:.cliplength}](https://vimeo.com/421920830){:.watch-link}
 
 *1974*{:.year}<a name="joesark"></a> Serious film **Joe's Ark**, written by Denis Potter [wikipedia](https://en.wikipedia.org/wiki/Joe%27s_Ark){:.wiki-link}.  Sad and poigniant story about a woman who dies of cancer.  
